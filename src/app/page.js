@@ -54,7 +54,7 @@ export default function Home() {
         <h2 className="text-3xl font-semibold text-center mb-12">Get in Touch</h2>
         <div className="text-center">
           <p>Have any questions? Contact us at:</p>
-          <p className="text-lg font-semibold mt-2">support@shieldex.com</p>
+          <p className="text-lg font-semibold mt-2">admin@shieldex.co.in</p>
         </div>
       </section>
     </main>
