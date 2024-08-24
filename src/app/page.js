@@ -18,8 +18,8 @@ export default function Home() {
         <div className="grid gap-8 lg:grid-cols-3">
           <div className="text-center p-6 border rounded-lg shadow-md hover:shadow-lg transition">
             {/* <Image src="/product1.jpg" alt="Product 1" width={300} height={200} className="mx-auto mb-4" /> */}
-            <h3 className="text-xl font-semibold mb-2">Protective Masks</h3>
-            <p>High-quality masks to keep you safe from airborne particles.</p>
+            <h3 className="text-xl font-semibold mb-2">Safety Harness</h3>
+            <p>High-quality Full Body Harness .</p>
           </div>
           <div className="text-center p-6 border rounded-lg shadow-md hover:shadow-lg transition">
            {/* <Image src="/product2.jpg" alt="Product 2" width={300} height={200} className="mx-auto mb-4" /> */}
