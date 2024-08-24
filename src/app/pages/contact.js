@@ -12,7 +12,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto">
           <div className="bg-white shadow-lg rounded-lg overflow-hidden">
             <div className="p-8">
-              <h1 className="text-4xl font-extrabold text-[#17115F] mb-8 text-center">Contacts Us</h1>
+              <h1 className="text-4xl font-extrabold text-[#17115F] mb-8 text-center">Contact Us</h1>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                 {/* Contact Information Section */}
                 <div className="bg-gray-100 p-6 rounded-lg shadow-md">
